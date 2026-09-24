@@ -1,0 +1,1 @@
+{ "source": "Demo Data", "rainfall": "82 mm / 24h", "landslideRisk": 82, "fallback": "Open-Meteo can be configured through environment variables" }

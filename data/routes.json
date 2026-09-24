@@ -1,0 +1,1 @@
+{ "count": 25, "source": "Demo Data", "note": "NER-style corridors are generated deterministically in src/data/mockData.ts" }
