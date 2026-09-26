@@ -314,9 +314,8 @@ NAVIRA is a Smart India Hackathon 2026 prototype, built for demonstration and ev
 
 ## Project Links
 
-- **Live Demo:** `YOUR_VERCEL_LINK`
-- **GitHub Repository:** `YOUR_GITHUB_REPOSITORY_LINK`
-- **LinkedIn:** `YOUR_LINKEDIN_POST_LINK`
+- **Live Demo:** `https://navira-sih.vercel.app/`
+- **GitHub Repository:** `https://github.com/SithickSahilAhamed/SIH2026-PS26002-AI-Smart-Logistics-NER`
 
 ---
 
